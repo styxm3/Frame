@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import WireFrameForm from '../components/WireFrameForm.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <WireFrameForm />
   </main>
 </template>
